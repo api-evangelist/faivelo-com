@@ -1,4 +1,4 @@
-# faivelo-com
+# Faivelo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,151 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-faivelo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://faivelo.com/
+Faivelo offers flat‑rate business email hosting with unlimited mailboxes, domain registration, and built‑in IMAP/SMTP, webmail, and two‑factor sign‑in. It provides a transactional and marketing email API, AI‑powered mail agents, and tools such as calendars, contacts, and meetings for teams, founders, sales groups, and small businesses. All plans include spam filtering, DKIM/SPF/DMARC setup, and migration from existing providers.
+
+**Areas:** Business Email · Transactional Email · Marketing Email · Email API · AI Agents
+
+## Faivelo on APIs.io
+
+Everything profiled for Faivelo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/faivelo-com/](https://apis.io/providers/faivelo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Faivelo core API](https://apis.io/apis/faivelo-com/core-api/) — Faivelo core API as documented publicly: 16 operations. Contract generated from the documentation by API Evangelist (2026-11-07); not the provider's own…
+- [Faivelo transactional API](https://apis.io/apis/faivelo-com/transactional-api/) — Faivelo transactional API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-11-07); not the provider's…
+- [Faivelo v1 API](https://apis.io/apis/faivelo-com/v1-api/) — Faivelo v1 API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-11-07); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Faivelo Com Webhooks](https://apis.io/asyncapis/faivelo-com/faivelo-com-webhooks/)
+
+#### JSON Schema (18)
+
+The data models the API reads and writes.
+
+- [GetApiV1EmailsIdResponse](https://apis.io/schemas/faivelo-com/faivelo-com-get-api-v1-emails-id-response/)
+- [GetEmailsIdResponse](https://apis.io/schemas/faivelo-com/faivelo-com-get-emails-id-response/)
+- [GetMailHostResponse](https://apis.io/schemas/faivelo-com/faivelo-com-get-mail-host-response/)
+- [GetServicesResponse](https://apis.io/schemas/faivelo-com/faivelo-com-get-services-response/)
+- [PostApiPartnerCustomersRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-partner-customers-request/)
+- [PostApiUserApiKeysResponse](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-user-api-keys-response/)
+- [PostApiV1EmailsRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-emails-request/)
+- [PostApiV1MailboxesAddressAttachmentsRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-mailboxes-address-attachments-request/)
+- [PostApiV1MailboxesAddressAttachmentsResponse](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-mailboxes-address-attachments-response/)
+- [PostApiV1MailboxesAddressSendRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-mailboxes-address-send-request/)
+- [PostApiV1MailboxesAddressSendResponse](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-mailboxes-address-send-response/)
+- [PostApiV1MailboxesMyAgentRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-api-v1-mailboxes-my-agent-request/)
+- [PostCustomersIdApiKeysRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-customers-id-api-keys-request/)
+- [PostCustomersIdDomainsDomainPlanRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-customers-id-domains-domain-plan-request/)
+- [PostCustomersIdPlanRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-customers-id-plan-request/)
+- [PostMailboxesAddressAttachmentsRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-mailboxes-address-attachments-request/)
+- [PostMailboxesAddressAttachmentsResponse](https://apis.io/schemas/faivelo-com/faivelo-com-post-mailboxes-address-attachments-response/)
+- [PostMailboxesAddressSendRequest](https://apis.io/schemas/faivelo-com/faivelo-com-post-mailboxes-address-send-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Faivelo Com Context](https://apis.io/jsonld/faivelo-com/faivelo-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Faivelo API Rules](https://apis.io/rules/faivelo-com/faivelo-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Faivelo Com Authentication](https://apis.io/security/faivelo-com/faivelo-com-authentication/)
+- [Faivelo Com Domain Security](https://apis.io/security/faivelo-com/faivelo-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Faivelo Com Plans Pricing](https://apis.io/plans/faivelo-com/faivelo-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Faivelo Com Rate Limits](https://apis.io/rate-limits/faivelo-com/faivelo-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://faivelo.com/)
+- [Documentation](https://apidocs.faivelo.com/)
+- [Getting started](https://faivelo.com/guides/cloudflare-email-setup)
+- [API reference](https://faivelo.com/docs/api)
+- [Pricing](https://faivelo.com/docs/billing/plans/)
+- [Support](https://faivelo.com/support)
+- [Blog](https://faivelo.com/blog)
+- [Trust centre](https://faivelo.com/trust)
+- [Terms of service](https://faivelo.com/terms)
+- [Privacy policy](https://faivelo.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 63.5** — strong · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 60.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 36.3 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 81.1 |
+
+**Agent readiness 47.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/faivelo-com/](https://apis.io/providers/faivelo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Faivelo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/faivelo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
